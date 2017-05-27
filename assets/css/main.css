@@ -1957,7 +1957,7 @@ input, textarea, select {
 
 h1, h2, h3, h4, h5, h6 {
     font-weight: 300;
-    color: #666;
+    color: #f4f4f4;
     line-height: 1.5em;
 }
 
@@ -1980,7 +1980,7 @@ h2.alt {
 }
 
 h2.alt strong {
-    color: #666;
+    color: #f4f4f4;
 }
 
 h3 {
@@ -2001,7 +2001,7 @@ footer {
 
 strong, b {
     font-weight: 300;
-    color: #666;
+    color: #f4f4f4;
 }
 
 em, i {
@@ -2558,9 +2558,12 @@ url("images/stress_man.jpg");
     background-position: center center;
 }
 
+
+
 #main > section.one {
+
     background-color: #e9000a;
-    background-image: url("../../images/cover.jpg");
+    background-image: url("../../images/stress_man.jpg");
 }
 
 #main > section.two {
