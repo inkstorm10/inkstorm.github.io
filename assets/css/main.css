@@ -2531,7 +2531,7 @@ url("images/stress_man.jpg");
 
 #main > section.dark {
     color: #ddd;
-    color: rgba(255, 255, 255, 0.75);
+    color: rgb(255, 255, 255);
 }
 
 #main > section.dark h2, #main > section.dark h3, #main > section.dark h4, #main > section.dark h5, #main > section.dark h6 {
@@ -2563,7 +2563,7 @@ url("images/stress_man.jpg");
 #main > section.one {
 
     background-color: #e9000a;
-    background-image: url("../../images/stress_man.jpg");
+    background-image: url("../../images/cover.jpg");
 }
 
 #main > section.two {
