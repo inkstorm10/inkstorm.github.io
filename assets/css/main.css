@@ -2298,7 +2298,7 @@ input[type="submit"]:hover,
 input[type="reset"]:hover,
 button:hover,
 .button:hover {
-    background-color: #FF1493;
+    background-color: #e9000a;
 }
 
 input[type="button"]:active,
@@ -2306,7 +2306,7 @@ input[type="submit"]:active,
 input[type="reset"]:active,
 button:active,
 .button:active {
-    background-color: #FF1493;
+    background-color: #e9000a;
 }
 
 /* Item */
@@ -2531,7 +2531,7 @@ url("images/stress_man.jpg");
 
 #main > section.dark {
     color: #ddd;
-    color: rgb(255, 255, 255);
+    color: rgba(233, 217, 229, 0.75);
 }
 
 #main > section.dark h2, #main > section.dark h3, #main > section.dark h4, #main > section.dark h5, #main > section.dark h6 {
